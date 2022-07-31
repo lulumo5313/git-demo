@@ -6,4 +6,4 @@ hello lulumo! hello git!
 hello lulumo! hello git!
 hello lulumo! hello git!
 hello lulumo! hello git!
-hello lulumo! hello git!
+hello lulumo! hello git! hot-fix test
